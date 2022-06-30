@@ -40,10 +40,12 @@ hg mesajini emojili yaptım, istege gore degisirsiniz canolar
 # Statistics
 
 Stat butonlu gorev filan var yazmam daha bak ordan.
+
 ![image](https://media.discordapp.net/attachments/970938744297390090/992068840190128178/unknown.png)
 ![image](https://media.discordapp.net/attachments/970938744297390090/992068733633822792/unknown.png)
 
 Leaderboardu komutla yaptim xddd .leaderboard ile aciyonuz 
+
 ![image](https://media.discordapp.net/attachments/970938744297390090/992067592158191686/unknown.png)
 
 # Moderation
@@ -70,6 +72,7 @@ Su menulu dropdown u .neck <oyun/burc/iliski/renk> olarak kullanin kurun
 
 oclar sizi token cogaltabiliyon welcomelerde merak etme genel olarak 4 koydum siz cogaltin
 e simdi botlarda toplam 9 10 ses var konser filan ayarlayin size gore.
+
 ![image](https://media.discordapp.net/attachments/970938744297390090/992068634706972814/unknown.png)
 
 Botlarin durumu degisiyo 3 durum koydum onuda cogaltabilirsiniz.
