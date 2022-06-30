@@ -18,7 +18,7 @@ Bu dosyada bulunan botlar:
 
 Sizin şimdi tek yapmanız gereken config.json ve serverSettings.json doldurmaktır.
 
-Rol alma daha iyi gözüksün diye ayırdım.
+Rol alma daha iyi gözüksün diye ayırdım iste patlak botcular anlar demek istedigimi.
 
 Aşağıda gördeller bırakıyom bakarsınız.
 
