@@ -1,4 +1,4 @@
-# Nekless / Hayverest pm2 bots
+# Nekles / Hayverest pm2 bots
 
 ### 53 STAR 25 FORK A ATILIYO STAR FORK ATIN SIKMIYIM
 
