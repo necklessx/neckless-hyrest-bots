@@ -20,7 +20,7 @@ Sizin şimdi tek yapmanız gereken config.json ve serverSettings.json doldurmakt
 
 Rol alma daha iyi gözüksün diye ayırdım iste patlak botcular anlar demek istedigimi.
 
-Aşağıda gördeller bırakıyom bakarsınız.
+Aşağıda görseller bırakıyom bakarsınız.
 
 # V13 Guards
 
